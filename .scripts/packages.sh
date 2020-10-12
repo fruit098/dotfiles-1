@@ -96,11 +96,13 @@ GUI_PACKAGES=(
     'xfce4-notifyd'
     'xfce4-screenshooter'
     'xorg'
+
 )
 
 AUR_PACKAGES=(
     'gotop'
-    'nerd-fonts-source-code-pro'
+    #'nerd-fonts-source-code-pro'
+    'betterlockscreen'
     'oh-my-zsh-git'
 )
 

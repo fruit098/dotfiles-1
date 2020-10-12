@@ -1,5 +1,4 @@
-export ZSH="/home/andrea/.oh-my-zsh"
-export LC_ALL=en_US.UTF-8
+export ZSH="/home/fruit/.oh-my-zsh"
 export TERMINAL=alacritty
 export PAGER=less
 export VISUAL=emacs
@@ -11,7 +10,7 @@ export LESS_TERMCAP_se=$'\e[0m'
 export LESS_TERMCAP_so=$'\e[1;33m'
 export LESS_TERMCAP_ue=$'\e[0m'
 export LESS_TERMCAP_us=$'\e[1;4;31m'
-export EDITOR='emacs'
+export EDITOR='vim'
 export RANGER_LOAD_DEFAULT_RC=FALSE
 
 # Node.js
